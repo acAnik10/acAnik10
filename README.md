@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @acAnik10
+- 👋 Hi, I’m Anik Chakraborty
 - 👀 I’m interested in Statistics, Data Analytics, Cricket, Football
 
 <!---
